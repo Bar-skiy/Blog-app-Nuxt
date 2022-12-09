@@ -1,6 +1,6 @@
 <template>
     <nav>
-        <h1>SSr blog</h1>
+        <h1>Blog</h1>
     </nav>
 </template>
 
